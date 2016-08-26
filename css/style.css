@@ -40,5 +40,24 @@
     
     margin-top: 10px;
     margin-bottom: -24px;
+
 }
+.block h4.headline {
+    text-align: center;
+    display: block;
+    margin: 24px auto;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    line-height: 29px;
+    font-weight: bold; 
+    font-size: 25px
+}
+.logo2{
+    height: 100px;
+    display: block;
+    margin: 0px auto;
+    max-width: 400px;
+    
+    margin-top: 10px;
+    margin-bottom: -24px;
 }
